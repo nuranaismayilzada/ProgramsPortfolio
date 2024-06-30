@@ -1,0 +1,80 @@
+# 1. İstifadəçi 1-20 arası ədəd daxil edir. Ədəd sadədirsə True, 
+# mürəkkəbdirsə False çap olunsun.
+# (Sadə ədədlər yalnız özünə və 1-ə bölünən ədədlərdir)
+
+
+# number=int(input("1-20 araliginda eded daxil edin:"))
+# print(number==2 or number==3 or number==5 or number==7 or number==11 or number==13
+#       or number==17 or number==19)
+
+
+#-----------------------------------------------------------------------------------------
+
+
+
+# 2. İstifadəçi 5 rəqəmli ədəd daxil edir. Ədədin polindrom olub olmamasını təyin edin.
+# (Polindrom - əksinə və düzünə eyni cür oxunur 12321 polindromdur, 12345 polindrom deyil)
+
+# number=int(input("5 reqemli eded daxil edin:"))
+# firstNumber=int(number/10000)
+# secondNumber=int((number/1000)%10)
+# thirdNumber=int((number/100)%10)
+# fourthNumber=int((number/10)%10)
+# lastNumber=int(number%10)
+# pNumber=(((((((lastNumber*10+fourthNumber)*10)+thirdNumber)*10)+secondNumber)*10)+firstNumber)
+# print(number==pNumber)
+
+
+#-----------------------------------------------------------------------------------------
+
+
+# 3. İstifadəçi rəqəm daxil edir ( 1dən - 9 rəqəmliyə kimi ola bilər).
+# Onun neçə rəqəmdən ibarət olduğunu tapın. Sadece 1 dəyişənden istifadə edə bilərsiniz.
+
+
+# number=int(input("Eded daxil edin:"))
+# print("Bir reqemlidirmi?", number>0 and number<10)
+# print("Iki reqemlidirmi?", number>9 and number<100)
+# print("Uc reqemlidirmi?",number>99 and number<1000)
+# print("Dord reqemlidirmi?",number>999 and number<10000)
+# print("Bes reqemlidirmi?",number>9999 and number<100000)
+# print("Alti reqemlidirmi?",number>99999 and number<1000000)
+# print("Yeddi reqemlidirmi?",number>999999 and number<10000000)
+# print("Sekkiz reqemlidirmi?",number>9999999 and number<100000000)
+# print("Doqquz reqemlidirmi?",number>99999999 and number<1000000000)
+
+
+#-----------------------------------------------------------------------------------------
+
+# 4. İstifadəçi 3 ədəd daxil edir. Proqram , əgər birinci ədəd o birilərdən böyükdürsə
+# ‘1-ci: True’, ikinci ədəd böyükdürsə ‘2-ci: True’,
+# üçüncü ədəd böyükdürsə ‘3-cu: True’  çap olunsun.
+
+# a=int(input("Birinci ededi daxil edin:"))
+# b=int(input("Ikinci ededi daxil edin:"))
+# c=int(input("Ucuncu ededi daxil edin:"))
+
+# print(a>b and a>c)
+# print(b>a and b>c)
+# print(c>a and c>b)
+
+
+#-----------------------------------------------------------------------------------------
+
+# 5. İstifadəçi 6 rəqəmli ədəd daxil edir. Tək yerdə duranların cəmi cüt yerdə
+# duranların cəmindən çoxdursa , True , və ya False.
+# Numune: (756189) Tək yerdə duranlar - 7,6,8 // Cüt yerdə duranlar - 5,1,9
+
+# number=int(input("6 reqemli eded daxil edin:"))
+# firstNumber=int(number/100000)
+# secondNumber=int((number/10000)%10)
+# thirdNumber=int((number/1000)%10)
+# fourthNumber=int((number/100)%10)
+# fifthNumber=int((number/10)%10)
+# lastNumber=int(number%10)
+
+# sumOfOddNumbers=firstNumber+thirdNumber+fifthNumber
+# sumOfEvenNumbers=secondNumber+fourthNumber+lastNumber
+# print(sumOfOddNumbers>sumOfEvenNumbers and sumOfOddNumbers<sumOfEvenNumbers)
+
+#-----------------------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+    border: 1px solid transparent;
+    margin: 50px auto;
+    width: 1000px;
+    background-color: rgba(149, 149, 149, 0.408);
+    height: 500px;
+}
+h1{
+    margin: 20px;
+}
+span{
+    display: block;
+    padding-left: 20px;
+    font-size: 18px;
+}
+h2{
+    display: inline-block;
+    font-size: 16px;
+    color: blue;
+}
+p{
+    padding-left: 20px;
+    font-size: 18px;
+}
