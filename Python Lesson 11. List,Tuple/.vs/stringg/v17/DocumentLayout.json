@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\stringg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF6947-8A69-40FC-BC17-C811C60F3570}|stringg\\stringg.pyproj|C:\\Users\\hp\\source\\repos\\stringg\\stringg\\stringg.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FAF6947-8A69-40FC-BC17-C811C60F3570}|stringg\\stringg.pyproj|solutionrelative:stringg\\stringg.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringg.py",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\stringg\\stringg\\stringg.py",
+              "RelativeDocumentMoniker": "stringg\\stringg.py",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\stringg\\stringg\\stringg.py",
+              "RelativeToolTip": "stringg\\stringg.py",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-03T21:23:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
