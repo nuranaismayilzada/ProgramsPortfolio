@@ -1,0 +1,221 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    background-color: rgb(220, 209, 209);
+}
+.container{
+    margin: 0px auto;
+    max-width: 1280px;
+}
+
+.header .headerSection{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.header .headerSection .right-side nav ul li{
+    list-style-type: none;
+}
+.header .headerSection .right-side nav ul{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
+.header .headerSection .right-side nav ul li a{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.898);
+    font-size: 20px;
+}
+.header .headerSection .right-side nav ul li a:hover{
+    color: blue;
+}
+.header .headerSection .landing{
+    font-size: 30px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header .headerSection .landing:hover{
+    color: blue;
+}
+.header .headerSection .buy{
+    color: black;
+    width: 15%;
+    height: 40%;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    background-color: pink;
+    text-align: center;
+    font-weight: 600;
+
+}
+.header .headerSection .buy:hover{
+    color:blue;
+    transition: 1s;
+}
+.mainSection .main .pictureSide{
+    display: flex;
+    flex-direction: row;
+}
+.pictureSide{
+    width: 40%;
+    margin: 50px auto;
+    background-color: pink;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(255, 0, 191);
+    gap: 20px;
+    flex-direction: column;
+    animation: moveX 2s 2 alternate ease-in-out;
+}
+.pictureSide .hover{
+    font-size: 30px;
+    display: inline;
+    font-weight: 600;
+    cursor: pointer;
+}
+.pictureSide .hover:hover{
+    color:green;
+}
+.mainSection .main .pictureSide img{
+    width: 70%;
+    height: 80%;
+    margin-top: 20px;
+}
+@keyframes moveX {
+    0% {
+      transform: translate(-100%, 50%);
+    }
+    100% {
+      transform: translate(80%, 50%);
+    }
+}
+
+
+.footer {
+    background-color:pink;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    margin-top: 300px;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    text-align: center;
+
+  }
+  
+  
+  .footer .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 300px;
+  }
+  
+  
+  .footer .social-icons {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer .social-icons li a i{
+    margin: 0 0.5rem;
+  }
+  
+  .footer .social-icons li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer .social-icons li a:hover {
+    color: #f39c12;
+  }
+  
+  .footer .links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .footer .links li {
+    margin: 0 0.5rem;
+  }
+  
+  .footer .links li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .footer .links li a:hover {
+    text-decoration: underline;
+  }
+
+
+  .doors {
+    position: relative;
+    width:600px;
+    height: 400px;
+    margin: 0px auto;
+    margin-top: 180px;
+    perspective: 1000px; 
+  }
+  
+  .door {
+    width: 50%;
+    height: 100%;
+    background-color: pink;
+    position: absolute;
+    top: 0;
+    transition: transform 0.5s ease-in-out;
+    margin: 100px auto;
+  }
+  
+  .left-door {
+    left: 0;
+    transform-origin: left center;
+  }
+  
+  .right-door {
+    right: 0;
+    transform-origin: right center;
+  }
+  
+  .doors:hover .left-door {
+    border: 1px solid black;
+    transform: translateX(-50%) rotateY(90deg);
+  }
+  
+  .doors:hover .right-door {
+    border: 1px solid black;
+    transform: translateX(50%) rotateY(-90deg);
+  }
+  
+  .message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: #333;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .doors:hover .message {
+    opacity: 1;
+  }
