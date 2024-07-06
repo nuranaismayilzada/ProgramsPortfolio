@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ListTuple\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\List,Tuple,Dictionary-LoginRegister\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB42581-CCDF-47F4-B27F-F18A2A47847A}|ListTuple\\ListTuple.pyproj|C:\\Users\\hp\\source\\repos\\ListTuple\\ListTuple\\ListTuple.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8FB42581-CCDF-47F4-B27F-F18A2A47847A}|ListTuple\\ListTuple.pyproj|C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\List,Tuple,Dictionary-LoginRegister\\ListTuple\\ListTuple.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8FB42581-CCDF-47F4-B27F-F18A2A47847A}|ListTuple\\ListTuple.pyproj|solutionrelative:ListTuple\\ListTuple.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,21 +37,21 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ListTuple.py",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ListTuple\\ListTuple\\ListTuple.py",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\List,Tuple,Dictionary-LoginRegister\\ListTuple\\ListTuple.py",
               "RelativeDocumentMoniker": "ListTuple\\ListTuple.py",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\ListTuple\\ListTuple\\ListTuple.py",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\List,Tuple,Dictionary-LoginRegister\\ListTuple\\ListTuple.py",
               "RelativeToolTip": "ListTuple\\ListTuple.py",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIIAAAADAAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAH0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-07-04T17:32:41.501Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
