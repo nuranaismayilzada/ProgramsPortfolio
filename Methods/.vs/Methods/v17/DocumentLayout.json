@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\C#Task1\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Methods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF37AED-7FA9-4422-B3E1-8F5B644D97AE}|Task1\\Task1.csproj|c:\\users\\hp\\desktop\\programsportfolio\\c#task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF37AED-7FA9-4422-B3E1-8F5B644D97AE}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{094BB0E2-D435-4675-82D4-D2D10111EEF8}|Methods\\Methods.csproj|c:\\users\\hp\\source\\repos\\methods\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094BB0E2-D435-4675-82D4-D2D10111EEF8}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,13 +44,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\C#Task1\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\C#Task1\\Task1\\Program.cs",
-              "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Methods\\Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Methods\\Methods\\Program.cs",
+              "RelativeToolTip": "Methods\\Program.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T15:36:40.927Z",
+              "WhenOpened": "2024-07-07T18:23:51.813Z",
               "EditorCaption": ""
             }
           ]
