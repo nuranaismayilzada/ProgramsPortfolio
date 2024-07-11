@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\classlar\classlar\bin\Debug\net6.0\classlar.exe
+C:\Users\hp\source\repos\classlar\classlar\bin\Debug\net6.0\classlar.deps.json
+C:\Users\hp\source\repos\classlar\classlar\bin\Debug\net6.0\classlar.runtimeconfig.json
+C:\Users\hp\source\repos\classlar\classlar\bin\Debug\net6.0\classlar.dll
+C:\Users\hp\source\repos\classlar\classlar\bin\Debug\net6.0\classlar.pdb
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.AssemblyInfo.cs
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.sourcelink.json
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.dll
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\refint\classlar.dll
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.pdb
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\classlar.genruntimeconfig.cache
+C:\Users\hp\source\repos\classlar\classlar\obj\Debug\net6.0\ref\classlar.dll
