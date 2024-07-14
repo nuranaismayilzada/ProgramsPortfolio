@@ -13,7 +13,7 @@ namespace classlar
 {
     internal class CustomMath
     {
-        public int Id;
+        public int  Id;
         public double Value;
         public void SumFindNumbers(int[] arr)
         {

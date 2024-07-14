@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,6 +49,10 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Employee.cs",
@@ -58,8 +62,7 @@
               "RelativeToolTip": "classlar\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T15:56:35.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T15:56:35.718Z"
             },
             {
               "$type": "Document",
@@ -69,7 +72,7 @@
               "RelativeDocumentMoniker": "classlar\\CustomMath.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\ClassIntro\\classlar\\CustomMath.cs",
               "RelativeToolTip": "classlar\\CustomMath.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwDoAAAAJAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T15:05:18.965Z",
               "EditorCaption": ""
@@ -84,8 +87,7 @@
               "RelativeToolTip": "classlar\\classlar.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-09T18:42:20.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T18:42:20.639Z"
             },
             {
               "$type": "Document",
@@ -97,12 +99,7 @@
               "RelativeToolTip": "classlar\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T18:42:00.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-07-09T18:42:00.879Z"
             }
           ]
         }

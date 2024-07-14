@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150BC648-8CC8-4E94-85C6-C4BFB519D83B}|Function\\Function.pyproj|C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\Function\\Function.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{150BC648-8CC8-4E94-85C6-C4BFB519D83B}|Function\\Function.pyproj|solutionrelative:Function\\Function.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.py",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\Function\\Function.py",
+              "RelativeDocumentMoniker": "Function\\Function.py",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\Function\\Function.py",
+              "RelativeToolTip": "Function\\Function.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-14T09:24:10.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
