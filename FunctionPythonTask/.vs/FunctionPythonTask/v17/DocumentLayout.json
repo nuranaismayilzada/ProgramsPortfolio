@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\FunctionPythonTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{150BC648-8CC8-4E94-85C6-C4BFB519D83B}|Function\\Function.pyproj|C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\Function\\Function.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{150BC648-8CC8-4E94-85C6-C4BFB519D83B}|Function\\Function.pyproj|solutionrelative:Function\\Function.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F99EFE45-1FD5-478F-94BB-6C8C51C5D0E1}|FunctionPythonTask\\FunctionPythonTask.pyproj|C:\\Users\\hp\\source\\repos\\FunctionPythonTask\\FunctionPythonTask\\FunctionPythonTask.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F99EFE45-1FD5-478F-94BB-6C8C51C5D0E1}|FunctionPythonTask\\FunctionPythonTask.pyproj|solutionrelative:FunctionPythonTask\\FunctionPythonTask.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Function.py",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\Function\\Function.py",
-              "RelativeDocumentMoniker": "Function\\Function.py",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\FunctionPythonIntro\\Function\\Function.py",
-              "RelativeToolTip": "Function\\Function.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Title": "FunctionPythonTask.py",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\FunctionPythonTask\\FunctionPythonTask\\FunctionPythonTask.py",
+              "RelativeDocumentMoniker": "FunctionPythonTask\\FunctionPythonTask.py",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\FunctionPythonTask\\FunctionPythonTask\\FunctionPythonTask.py",
+              "RelativeToolTip": "FunctionPythonTask\\FunctionPythonTask.py",
+              "ViewState": "AQIAALUAAAAAAAAAAAAqwL8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-07-14T09:24:10.343Z",
+              "WhenOpened": "2024-07-14T11:58:45.157Z",
               "EditorCaption": ""
             }
           ]
