@@ -1,0 +1,200 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.border{
+    width: 50%;
+    border-radius: 10px;
+    margin: 0px auto;
+    padding: 4%;
+    background-color: rgba(139, 131, 131, 0.241);
+}
+.border .middle{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.border .middle .firstLine{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2%;
+    padding-top: 2%;
+}
+.border .middle .firstLine img{
+    width: 10%;
+    height: 10%;
+}
+.firstLine .message{
+    width: 65%;
+    background-color: pink;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    font-size: 150%;
+    padding: 3%;
+}
+.firstLine .icon .text{
+    display: flex;
+    flex-direction: column;
+    gap: 15%;
+}
+.firstLine .icon .text p{
+    margin-left: 20%;
+    font-weight: 400;
+}
+.firstLine .icon .text h1{
+    font-size: 150%;
+    font-weight: 600;
+}
+
+
+.border .middle .twoLine{
+    padding-left: 3%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2%;
+    padding-top: 5%;
+}
+.border .middle .twoLine img{
+    width: 10%;
+    height: 10%;
+}
+.twoLine .message{
+    background-color:#4194e1af;
+    width: 65%;
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    padding: 3%;
+    font-size: 150%;
+}
+.twoLine .icon .text{
+    display: flex;
+    flex-direction: column;
+    gap: 15%;
+}
+.twoLine .icon .text p{
+    margin-left: 20%;
+    font-weight: 400;
+}
+.twoLine .icon .text h1{
+    font-size: 150%;
+    font-weight: 600;
+}
+button{
+    margin-left: 70%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    width: 6%;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+@media screen and (max-width:750px) {
+    .border{
+        width: 100%;
+        padding: 0%;
+    }
+    .firstLine .message{
+        width: 85%;
+        background-color: pink;
+        border-radius: 15px;
+        border-bottom-left-radius: 0px;
+        font-size: 150%;
+        padding: 3%;
+    }   
+    button{
+        margin-left: 70%;
+        margin-top: 5%;
+        margin-bottom: 2%;
+        width: 10%;
+        height: 30px;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+}
+@media screen and (max-width:320px) {
+    .border{
+        width: 100%;
+        padding: 10%;
+    }
+    .border .middle{
+        gap: 5%;
+    }
+    .border .middle .firstLine{
+        gap: 2%;
+        padding-top: 2%;
+    }
+    .border .middle .firstLine img{
+        width: 10%;
+        height: 10%;
+    }
+    .firstLine .message{
+        width: 65%;
+        background-color: pink;
+        border-radius: 15px;
+        border-bottom-left-radius: 0px;
+        font-size: 100%;
+        padding: 3%;
+    }
+    .firstLine .icon .text{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+    }
+    .firstLine .icon .text p{
+        margin-left: 5%;
+        font-weight: 400;
+        font-size: 50%;
+    }
+    .firstLine .icon .text h1{
+        font-size: 100%;
+        font-weight: 600;
+    }
+    
+    .border .middle .twoLine{
+        gap: 2%;
+        padding-top: 2%;
+    }
+    .border .middle .twoLine img{
+        width: 10%;
+        height: 10%;
+    }
+    .twoLine .message{
+        background-color:rgba(65, 148, 225, 0.688);
+        width: 65%;
+        border-radius: 15px;
+        border-bottom-left-radius: 0px;
+        font-size: 100%;
+        padding: 3%;
+    }
+    .twoLine .icon .text{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+    }
+    .twoLine .icon .text p{
+        margin-left: 5%;
+        font-weight: 400;
+        font-size: 50%;
+    }
+    .twoLine .icon .text h1{
+        font-size: 100%;
+        font-weight: 600;
+    }
+    button{
+        margin-left: 70%;
+        margin-top: 5%;
+        margin-bottom: 2%;
+        width: 30%;
+        height: 30px;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+}
+
