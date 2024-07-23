@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #CCCCCC;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+img{
+    margin-left:700px;
+    margin-top: 50px;
+}
+a{
+    display: block;
+    text-align: center;
+    /* margin-top: 20px; */
+    color: #0909ED;
+}
+ul{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
