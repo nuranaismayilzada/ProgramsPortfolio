@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(137, 240, 240);
+}
+.blok{
+    width: 600px;
+    height: 400px;
+    margin:  200px auto;
+    padding: 60px 50px;
+    background-color: white;
+}   
+.daxil{
+    width: 100%;
+    position: relative;
+}
+.daxil input {
+    width: 100%;
+    padding: 15px 20px 15px 40px;
+    border: 2px solid rgb(133, 220, 234);
+}
+.daxil img{
+    cursor: pointer;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.blok button{
+    cursor: pointer;
+    border: none;
+    width: 100%;
+    padding: 20px 5px;
+    right: 200px;
+    top: 20px;
+    background-color: rgb(104, 215, 234);
+}
+p{
+    margin-top: 200px;
+    color: rgba(78, 75, 75, 0.3);
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    white-space: pre;
+}

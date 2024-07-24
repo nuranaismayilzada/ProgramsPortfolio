@@ -1,0 +1,26 @@
+div{
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 50%;
+    box-sizing: border-box;
+    
+}
+.qirmizi{
+    border: 30px solid red;
+}
+.tundsari{
+
+    border: 30px solid orange;
+}
+.sari{
+    border: 30px solid yellow;
+}
+.yasil{
+    border: 30px solid green;
+}
+.mavi{
+    border: 30px solid blue;
+}
+.benovseyi{
+    border: 30px solid rgb(171, 5, 171);
+}

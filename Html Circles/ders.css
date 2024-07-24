@@ -1,0 +1,26 @@
+div{
+    box-sizing: border-box;
+    border: 5px solid;
+    display: inline-block;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    padding: 90px;
+    margin-left: -50px;
+}
+.red{
+    margin: 10px;
+    border-color: red;
+}
+.yellow{
+    border-color: yellow;
+}
+.blue{
+    border-color: blue;
+}
+.black{
+    border-color: black;
+}
+.green{
+    border-color: green;
+}
