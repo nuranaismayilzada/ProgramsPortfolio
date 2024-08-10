@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-rendering: optimizeLegibility;
+    color: rgba(175, 47, 47, .15);
+    font-size: 150px;
+    font-weight: 100;
+    text-align: center;
+}
+.container{
+    width: 800px;
+    border: 1px solid black;
+    margin: 0px auto;
+}
+.container .topSide form{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.container .topSide form>p{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.container .topSide form input{
+    width: 100%;
+    border: none;
+    font-size: 20px;
+    height: 50px;
+    margin-left: 20px;
+    outline: none;
+    padding-left: 15px;
+}
+.container .mainSide ul li{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    align-items: center;
+    border-bottom: 1px solid black;
+    cursor: pointer;
+}
+.container .mainSide ul li>div{
+    border-radius: 50%;
+    width: 30px;
+    margin-left: 10px;
+    height: 30px;
+    border: 1px solid rgb(109, 101, 101);
+}
+.active{
+    border: 1px solid rgb(205, 119, 119);
+}
+.container .mainSide ul li>div>i{
+    margin-left: 7px;
+    margin-top: 7px;
+    /* display: none; */
+}
+.container .mainSide ul li p{
+    margin-left: 10px;
+    font-size: 24px;
+}
+.container .mainSide ul li{
+    position: relative;
+}
+.container .mainSide ul li .fa-xmark{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 10px;
+    display: none;
+}
+.container .mainSide ul li:hover .fa-xmark{
+    display: initial;
+}
+.container .bottomSide{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-between;
+}
+.container .bottomSide .middle ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 15px;
+}
+.container .bottomSide .middle ul li{
+    cursor: pointer;
+    font-size: 24px;
+}
+.container .bottomSide p{
+    font-size: 24px;
+    margin-left: 10px;
+    cursor: pointer;
+}

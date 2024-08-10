@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <h1>todos</h1>
+    <div class="container">
+        <div class="topSide">
+            <form action="">
+                <p>❯</p>
+                <input type="text" placeholder="What needs to be done?">
+            </form>
+            <hr>
+        </div>
+        <div class="mainSide">
+            <ul class="notes">
+                <li>
+                    <div class="circle">
+                        <i class="fa-solid fa-check" style="color: #11ff00;"></i>
+                    </div>
+                    <p>Learn</p>
+                    <i class="fa-solid fa-xmark" style="color: #d53030;"></i>
+                </li>
+                <li>
+                    <div class="circle">
+                        <i class="fa-solid fa-check" style="color: #11ff00;"></i>
+                    </div>
+                    <p>Javascript</p>
+                    <i class="fa-solid fa-xmark" style="color: #d53030;"></i>
+                </li>
+                <li>
+                    <div class="circle">
+                        <i class="fa-solid fa-check" style="color: #11ff00;"></i>
+                    </div>
+                    <p>Html</p>
+                    <i class="fa-solid fa-xmark" style="color: #d53030;"></i>
+                </li>
+            </ul>
+        </div>
+        <hr>
+        <div class="bottomSide">
+            <p> <span class="count"> </span> items left</p>
+            <div class="middle">
+                <ul>
+                    <li class="active">All</li>
+                    <li>Active</li>
+                    <li>Completed</li>
+                </ul>
+            </div>
+            <p>Clear completed</p>
+        </div>
+    </div>
+
+
+    <script src="./app.js"></script>
+</body>
+</html>
