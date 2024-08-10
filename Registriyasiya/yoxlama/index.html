@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <form class="container">
+        <h2 class="heading">Registrasiya</h2>
+        <div class="steps-container">
+            <hr>
+            <hr class="active">
+            <div class="steps"><i class="fa-solid fa-user"></i></div>
+            <div class="steps"><i class="fa-solid fa-envelope"></i></div>
+            <div class="steps"><i class="fa-solid fa-key"></i></div>
+            <div class="steps"><i class="fa-solid fa-trophy"></i></div>
+        </div>
+        
+        <div class="input-slide-contianer">
+            <scroller>
+                <div class="input-slide">
+                <h3>İstifadəçi Adı</h3>
+                <p><i>İstifadəçi adı sizin onlayn şəxsiyyətinizi bildirir</i></p>
+                <ul class="rules">
+    
+                    <li>İstifadəçi adınız yalnız hərflər rəqəmlər altdan xətt və ya defislərdən ibarət olmalıdır. </li><li>Boşluqlara və ya xüsusi simvollara icazə verilmir.</li>
+                    <li>İstifadəçi adında qeyri-etik sözlərdən istifadə edilməməlidir.</li>
+                </ul>
+                <input type="text" placeholder="İstifadəçi adınızı yazın" name="username" class="username">
+                <div class="full-name"><input type="text" placeholder="Ad" name="Soyad">
+                    <input type="text" name="lastname" class="lastname" placeholder="Soyad"></div>
+                <button class="button-nex" onclick="NextSlide(1)">Keçid Edin</button>
+            </div>
+            <div class="input-slide user-detail">
+                <h3>Email</h3>
+                <p><i>E-poçt rəqəmsal sizin həyatınızın önəmli hissəsidir. </i></p>
+                <ul class="rules">
+                    <li>Zəhmət olmasa göstərilən formatda etibarlı e-poçt ünvanını daxil edin. "example@example.com".</li>
+                    <li>Biz sizin məxfiliyinizi qiymətləndiririk və e-poçtunuzu heç vaxt icazəsiz məqsədlər üçün istifadə etməyəcəyik.</li>
+                    <li>Zəhmət olmasa başqasına məxsus e-poçtdan istifadə etməyin.</li>
+                    <li>Zəhmət olmasa şəxsi məlumatı ehtiva edən e-poçtdan istifadə etməyin.</li>
+                </ul>
+                <input type="email" name="email" class="email" placeholder="Email">
+    
+                
+                <button class="button-nex" onclick="NextSlide(2)">Keçid edin</button>
+            </div>
+            <div class="input-slide password-slide">
+                <h3>Parol</h3>
+                <p><i>Hesabınızı güclü parol ilə qoruyun</i></p>
+                <ul class="rules">
+                    <li>Böyük və kiçik hərflərin, rəqəmlərin və xüsusi simvolların qarışığını daxil edin.</li>
+                    <li>Ümumi və ya asanlıqla təxmin edilən parollardan istifadə etməyin.</li>
+                    <li>Şəxsi məlumatlardan istifadə etməyin.</li>
+                </ul>
+                <input type="password" name="password" class="password" placeholder="Password">
+                <input type="password" name="confirm-password" class="confirm-password" placeholder="Confirm Your Password">
+                <button class="button-nex" onclick="NextSlide(3)">Keçid edin</button>
+            </div>
+            <div class="input-slide finish-slide">
+                <h3>Təbrik edirik!</h3>
+                <p><i>Qeydiyyat üçün tələb olunan bütün addımları tamamladınız.</i></p>
+                <ul class="rules">
+                <li>Məlumatınızı təqdim etməzdən əvvəl, təqdim olunan bütün təfərrüatların düzgün olduğundan əmin olmaq üçün bir az vaxt ayırın. </li>
+                <li>Biz istifadəçilərimizin məxfiliyinə və təhlükəsizliyinə çox ciddi yanaşırıq və təqdim olunan bütün məlumatların dəqiq və aktual olması vacibdir.</li> 
+                <li>Hər şeyin qaydasında olduğunu təsdiq etdikdən sonra "Göndər" düyməsini sıxmağınız kifayətdir.</li>
+                </ul> 
+              
+                <button type="submit" class="button-nex" disabled>Göndər</button>
+            </div>
+        </scroller> 
+        </div>
+      <button class="GoBack" onclick="GoBack()"><i class="fa-solid fa-arrow-left"></i></button> 
+    </form>
+    <script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,73 @@
+.orders{
+    text-align: center;
+}
+.birlik{
+    display: flex;
+    flex-direction: row;
+    column-gap: 600px;
+}
+#fullname{
+    width: 300px;
+    height: 20px;
+}
+#yemekler{
+    width: 300px;
+    height: 20px;
+}
+#count{
+    width: 300px;
+    height: 20px;
+}
+#price{
+    width: 300px;
+    height: 20px;
+}
+.submit{
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: rgb(93, 192, 212);
+}
+.curorders{
+    text-align: center;
+}
+#ikincifullname{
+    width: 300px;
+    height: 20px;
+}
+.gorunmez{
+    display: none;
+}
+#ffood{
+    width: 300px;
+    height: 20px;
+}
+#totalprice{
+    width: 300px;
+    height: 20px;
+}
+.pendinq{
+    width: 300px;
+    height: 20px;
+}
+.confirm{
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    cursor: pointer;
+    color: white;
+}
+.refusal{
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+}

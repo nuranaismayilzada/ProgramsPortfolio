@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-bottom: 10px;
+}
+ul{
+    width: 200px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 20px;
+    margin-left: 100px;
+    background-color: rgb(89, 35, 44);
+}
+ul li{
+    display: flex;
+    gap: 40px;
+    padding: 10px;
+    background-color: beige;
+}

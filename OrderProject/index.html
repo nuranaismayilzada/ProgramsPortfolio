@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+    <h1 class="orders">Orders</h1>
+    <div class="birlik">
+    <div class="neworderdiv">
+        <h1 class="neworder">New order</h1>
+        <form class="fullnameform">
+            <label for="fullname">Fullname</label>
+            <br>
+            <input type="text" id="fullname">
+            <br>
+            <br>
+            <!--  -->
+        </form>
+        <p>Food</p>
+        <select name="" id="yemekler">
+            <option value=""></option>
+        </select>
+        <br>
+        <br>
+        <form class="countform">
+            <label for="count">Count</label>
+            <br>
+            <input type="number" id="count">
+        </form>
+        <br>
+        <form class="priceform">
+            <label for="price">Price</label>
+            <br>
+            <input type="number" id="price">
+        </form>
+        <br>
+        <button class="submit">Submit</button>
+    </div>
+    <div class="currentorders gorunmez">
+        <h1 class="curorders">Current orders</h1>
+        <form>
+            <label for="ikincifullname">Fullname</label>
+            <br>
+            <input type="text" id="ikincifullname" disabled >
+        </form>
+        <p>Food</p>
+        <select id="ffood" disabled >
+            <option></option>
+        </select>
+        <br>
+        <br>
+        <form>
+            <label for="totalprice">Total price</label>
+            <br>
+            <input type="number" id="totalprice" disabled>
+        </form>
+        <br>
+        <form>
+            <label for="status">Status</label>
+            <br>
+            <input type="text" class="pendinq" value="Pending" disabled>
+        </form>
+        <br>
+        <div class="butonlar">
+            <button class="confirm">Confirm</button>
+            <button class="refusal">Refusal</button>
+        </div>
+    </div>
+    </div>
+    <script src="./assets/script.js"></script>
+</body>
+</html>
