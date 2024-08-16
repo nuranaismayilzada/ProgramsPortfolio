@@ -1,0 +1,1 @@
+{"666FLK8": {"model": "Cadillac", "year": 1998, "count": 5, "price": 12000}, "65HD7GD3": {"model": "Hyndai", "year": 2023, "count": 1, "price": 1700}, "65HD7GD4": {"model": "BMW", "year": 2023, "count": 4, "price": 2100}, "6hsh82": {"model": "sjs", "year": 20, "count": 12, "price": 23.0}, "1HHH32": {"model": "07", "year": 2020, "count": 4, "price": 200.0}}
