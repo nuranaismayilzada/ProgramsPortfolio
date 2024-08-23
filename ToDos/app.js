@@ -13,6 +13,7 @@ formElement.addEventListener("submit", (e) => {
         let circle = document.createElement("div");
         circle.className = "circle";
 
+        
         let checkBox = document.createElement("i");
         checkBox.className = "fa-solid fa-check";
         checkBox.style.color = "#11ff00";
