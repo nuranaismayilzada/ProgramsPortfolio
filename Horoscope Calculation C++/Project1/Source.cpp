@@ -2,6 +2,7 @@
 using namespace std;
 void main ()
 {
+	system("color 25");
 	enum Months{ Yanvar = 1, Fevral, Mart, Aprel,May,Iyun,Iyul,Avqust,Sentyabr,Oktyabr,Noyabr,Dekabr };
 	int month,day;
 	cout << "Ayi daxil edin:";

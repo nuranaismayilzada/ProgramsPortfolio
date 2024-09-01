@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\Horoscope Calculation C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46ADF9A1-949C-4E5E-A003-1C93C822A6EC}|Project1\\Project1.vcxproj|C:\\Users\\hp\\source\\repos\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{46ADF9A1-949C-4E5E-A003-1C93C822A6EC}|Project1\\Project1.vcxproj|C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\Horoscope Calculation C\u002B\u002B\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{46ADF9A1-949C-4E5E-A003-1C93C822A6EC}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Project1\\Project1\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\Horoscope Calculation C\u002B\u002B\\Project1\\Source.cpp",
               "RelativeDocumentMoniker": "Project1\\Source.cpp",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\Project1\\Project1\\Source.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProgramsPortfolio\\Horoscope Calculation C\u002B\u002B\\Project1\\Source.cpp",
               "RelativeToolTip": "Project1\\Source.cpp",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJ0AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-23T06:24:52.783Z",
               "EditorCaption": ""
