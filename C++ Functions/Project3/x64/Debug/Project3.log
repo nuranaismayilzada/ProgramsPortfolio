@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(153,11): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(160,11): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(197,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(199,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(22,1): warning C4715: 'Finds_Larger_Numbers': not all control paths return a value
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(34,1): warning C4715: 'Find_Number_Positive_And_Negative': not all control paths return a value
+  Project3.vcxproj -> C:\Users\hp\source\repos\Project3\x64\Debug\Project3.exe
