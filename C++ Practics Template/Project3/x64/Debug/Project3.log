@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(95,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(98,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project3.vcxproj -> C:\Users\hp\source\repos\Project3\x64\Debug\Project3.exe
