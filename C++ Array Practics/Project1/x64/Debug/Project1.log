@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-C:\Users\hp\source\repos\Project1\Project1\Source.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Project1.vcxproj -> C:\Users\hp\source\repos\Project1\x64\Debug\Project1.exe
+C:\Users\hp\Desktop\ProgramsPortfolio\C++ Array Practics\Project1\Source.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : C:\Users\hp\Desktop\ProgramsPortfolio\C++ Array Practics\x64\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1104: cannot open file 'C:\Users\hp\Desktop\ProgramsPortfolio\C++ Array Practics\x64\Debug\Project1.exe'

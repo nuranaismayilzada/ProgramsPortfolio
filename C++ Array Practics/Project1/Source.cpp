@@ -2,19 +2,19 @@
 using namespace std;
 void main() {
 	//Bubble sort algorithm
-	//const int size = 10;
-	//int arr[size]{};
-	//int min = 0, max = 100;
-	//for (size_t i = 0; i < size; i++)
-	//{
-	//	arr[i] = min + rand() % (max - min + 1);
-	//}
-	//cout << "Massiv:    ";
-	//for (size_t i = 0; i < size; i++)
-	//{
-	//	cout << arr[i] << "  ";
-	//}
-	//cout << endl;
+	const int size = 10;
+	int arr[size]{};
+	int min = 0, max = 100;
+	for (size_t i = 0; i < size; i++)
+	{
+		arr[i] = min + rand() % (max - min + 1);
+	}
+	cout << "Massiv:    ";
+	for (size_t i = 0; i < size; i++)
+	{
+		cout << arr[i] << "  ";
+	}
+	cout << endl;
 
 	//cout << "Sorted Massiv: ";
 	//int temp = 0;
