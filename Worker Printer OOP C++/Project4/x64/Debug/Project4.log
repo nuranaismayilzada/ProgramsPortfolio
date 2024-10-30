@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\Project4\Project4\Source.cpp(65,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\Project4\Project4\Source.cpp(95,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\Project4\Project4\Source.cpp(140,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\Project4\Project4\Source.cpp(168,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project4.vcxproj -> C:\Users\hp\source\repos\Project4\x64\Debug\Project4.exe

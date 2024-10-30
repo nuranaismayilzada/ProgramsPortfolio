@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(408,7): warning C4101: 'passengers_Capacity': unreferenced local variable
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(404,7): warning C4101: 'engine_Count': unreferenced local variable
+C:\Users\hp\source\repos\Project3\Project3\Source.cpp(454,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project3.vcxproj -> C:\Users\hp\source\repos\Project3\x64\Debug\Project3.exe
