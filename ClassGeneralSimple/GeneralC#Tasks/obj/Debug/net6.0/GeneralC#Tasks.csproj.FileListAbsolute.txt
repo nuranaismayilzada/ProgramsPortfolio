@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\bin\Debug\net6.0\GeneralC#Tasks.exe
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\bin\Debug\net6.0\GeneralC#Tasks.deps.json
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\bin\Debug\net6.0\GeneralC#Tasks.runtimeconfig.json
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\bin\Debug\net6.0\GeneralC#Tasks.dll
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\bin\Debug\net6.0\GeneralC#Tasks.pdb
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.AssemblyInfo.cs
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.sourcelink.json
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.dll
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\refint\GeneralC#Tasks.dll
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.pdb
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\GeneralC#Tasks.genruntimeconfig.cache
+C:\Users\hp\source\repos\GeneralC#Tasks\GeneralC#Tasks\obj\Debug\net6.0\ref\GeneralC#Tasks.dll

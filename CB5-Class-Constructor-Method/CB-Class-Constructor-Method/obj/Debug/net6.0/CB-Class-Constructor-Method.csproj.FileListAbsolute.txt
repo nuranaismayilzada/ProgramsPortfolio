@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\bin\Debug\net6.0\CB-Class-Constructor-Method.exe
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\bin\Debug\net6.0\CB-Class-Constructor-Method.deps.json
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\bin\Debug\net6.0\CB-Class-Constructor-Method.runtimeconfig.json
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\bin\Debug\net6.0\CB-Class-Constructor-Method.dll
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\bin\Debug\net6.0\CB-Class-Constructor-Method.pdb
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.AssemblyInfo.cs
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.sourcelink.json
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.dll
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\refint\CB-Class-Constructor-Method.dll
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.pdb
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\CB-Class-Constructor-Method.genruntimeconfig.cache
+C:\Users\hp\source\repos\CB-Class-Constructor-Method\CB-Class-Constructor-Method\obj\Debug\net6.0\ref\CB-Class-Constructor-Method.dll

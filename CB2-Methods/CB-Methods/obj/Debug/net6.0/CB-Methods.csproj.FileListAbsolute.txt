@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\bin\Debug\net6.0\CB-Methods.exe
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\bin\Debug\net6.0\CB-Methods.deps.json
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\bin\Debug\net6.0\CB-Methods.runtimeconfig.json
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\bin\Debug\net6.0\CB-Methods.dll
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\bin\Debug\net6.0\CB-Methods.pdb
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.AssemblyInfo.cs
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.sourcelink.json
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.dll
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\refint\CB-Methods.dll
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.pdb
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\CB-Methods.genruntimeconfig.cache
+C:\Users\hp\source\repos\CB-Methods\CB-Methods\obj\Debug\net6.0\ref\CB-Methods.dll

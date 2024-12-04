@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|c:\\users\\hp\\source\\repos\\classgeneralsimple\\generalc#tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|solutionrelative:generalc#tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|c:\\users\\hp\\source\\repos\\classgeneralsimple\\generalc#tasks\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|solutionrelative:generalc#tasks\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|c:\\users\\hp\\source\\repos\\classgeneralsimple\\generalc#tasks\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|solutionrelative:generalc#tasks\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|c:\\users\\hp\\source\\repos\\classgeneralsimple\\generalc#tasks\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|solutionrelative:generalc#tasks\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|c:\\users\\hp\\source\\repos\\classgeneralsimple\\generalc#tasks\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|solutionrelative:generalc#tasks\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|c:\\users\\hp\\source\\repos\\classgeneralsimple\\generalc#tasks\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B75ABBC-6B86-489B-88CF-DAAAC7A14C9D}|GeneralC#Tasks\\GeneralC#Tasks.csproj|solutionrelative:generalc#tasks\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Notebook.cs",
+              "RelativeDocumentMoniker": "GeneralC#Tasks\\Notebook.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Notebook.cs",
+              "RelativeToolTip": "GeneralC#Tasks\\Notebook.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:21:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Person.cs",
+              "RelativeDocumentMoniker": "GeneralC#Tasks\\Person.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Person.cs",
+              "RelativeToolTip": "GeneralC#Tasks\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:17:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Calculator.cs",
+              "RelativeDocumentMoniker": "GeneralC#Tasks\\Calculator.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Calculator.cs",
+              "RelativeToolTip": "GeneralC#Tasks\\Calculator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:01:49.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Factorial.cs",
+              "RelativeDocumentMoniker": "GeneralC#Tasks\\Factorial.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Factorial.cs",
+              "RelativeToolTip": "GeneralC#Tasks\\Factorial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:59:34.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Account.cs",
+              "RelativeDocumentMoniker": "GeneralC#Tasks\\Account.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Account.cs",
+              "RelativeToolTip": "GeneralC#Tasks\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:56:05.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "GeneralC#Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ClassGeneralSimple\\GeneralC#Tasks\\Program.cs",
+              "RelativeToolTip": "GeneralC#Tasks\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:31:52.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

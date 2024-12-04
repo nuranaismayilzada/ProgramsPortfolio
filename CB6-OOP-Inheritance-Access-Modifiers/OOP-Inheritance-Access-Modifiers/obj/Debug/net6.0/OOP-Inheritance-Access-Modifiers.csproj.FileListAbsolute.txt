@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\bin\Debug\net6.0\OOP-Inheritance-Access-Modifiers.exe
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\bin\Debug\net6.0\OOP-Inheritance-Access-Modifiers.deps.json
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\bin\Debug\net6.0\OOP-Inheritance-Access-Modifiers.runtimeconfig.json
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\bin\Debug\net6.0\OOP-Inheritance-Access-Modifiers.dll
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\bin\Debug\net6.0\OOP-Inheritance-Access-Modifiers.pdb
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.AssemblyInfo.cs
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.sourcelink.json
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.dll
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\refint\OOP-Inheritance-Access-Modifiers.dll
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.pdb
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\OOP-Inheritance-Access-Modifiers.genruntimeconfig.cache
+C:\Users\hp\source\repos\OOP-Inheritance-Access-Modifiers\OOP-Inheritance-Access-Modifiers\obj\Debug\net6.0\ref\OOP-Inheritance-Access-Modifiers.dll

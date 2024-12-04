@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\Reference\Reference\Source.cpp(88,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\Reference\Reference\Source.cpp(111,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hp\source\repos\Reference\Reference\Source.cpp(164,8): warning C4551: function call missing argument list
+  Reference.vcxproj -> C:\Users\hp\source\repos\Reference\x64\Debug\Reference.exe

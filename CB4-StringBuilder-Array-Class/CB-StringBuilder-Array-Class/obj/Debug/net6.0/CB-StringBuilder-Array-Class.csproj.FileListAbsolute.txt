@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\bin\Debug\net6.0\CB-StringBuilder-Array-Class.exe
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\bin\Debug\net6.0\CB-StringBuilder-Array-Class.deps.json
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\bin\Debug\net6.0\CB-StringBuilder-Array-Class.runtimeconfig.json
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\bin\Debug\net6.0\CB-StringBuilder-Array-Class.dll
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\bin\Debug\net6.0\CB-StringBuilder-Array-Class.pdb
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\CB-StringBuilder-Array-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\CB-StringBuilder-Array-Class.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\CB-StringBuilder-Array-Class.AssemblyInfo.cs
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\CB-StringBuilder-Array-Class.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\CB-StringBuilder-Array-Class.dll
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\refint\CB-StringBuilder-Array-Class.dll
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\CB-StringBuilder-Array-Class.pdb
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\CB-StringBuilder-Array-Class.genruntimeconfig.cache
+C:\Users\hp\source\repos\CB-StringBuilder-Array-Class\CB-StringBuilder-Array-Class\obj\Debug\net6.0\ref\CB-StringBuilder-Array-Class.dll

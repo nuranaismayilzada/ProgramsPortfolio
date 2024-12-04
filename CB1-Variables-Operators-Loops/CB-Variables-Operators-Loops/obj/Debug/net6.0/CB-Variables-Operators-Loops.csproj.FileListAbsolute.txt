@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\bin\Debug\net6.0\CB-Variables-Operators-Loops.exe
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\bin\Debug\net6.0\CB-Variables-Operators-Loops.deps.json
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\bin\Debug\net6.0\CB-Variables-Operators-Loops.runtimeconfig.json
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\bin\Debug\net6.0\CB-Variables-Operators-Loops.dll
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\bin\Debug\net6.0\CB-Variables-Operators-Loops.pdb
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.AssemblyInfo.cs
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.sourcelink.json
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.dll
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\refint\CB-Variables-Operators-Loops.dll
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.pdb
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\CB-Variables-Operators-Loops.genruntimeconfig.cache
+C:\Users\hp\source\repos\CB-Variables-Operators-Loops\CB-Variables-Operators-Loops\obj\Debug\net6.0\ref\CB-Variables-Operators-Loops.dll
